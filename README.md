@@ -1,4 +1,4 @@
-# JuanMiguelVillanueva-Portfolio
+# Juan Miguel Villanueva
 
 ### Education
 Univerisity Of Maryland
